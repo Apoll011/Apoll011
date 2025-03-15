@@ -14,10 +14,6 @@
 > "**Clean code always looks like it was written by someone who cares.**"  
 > *Robert C. Martin*
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Apoll011&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Apoll011&icon=0&color=0)](https://visitcount.itsvg.in)
 
