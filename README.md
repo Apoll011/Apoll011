@@ -9,9 +9,6 @@ My approach to programming is simple: make it run, refactor, make it better, and
 
 I love taking challenges head-on, exploring new technologies, and building projects that combine functionality, elegance, and creativity.
 
-If you want, I can also make an **even punchier, GitHub-friendly version under ~150 words** that’s more like a “profile blurb” while keeping all this personality. That works well for GitHub’s limited space. Do you want me to do that?
-
-
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/apoll0_11__) 
 
