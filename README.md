@@ -11,9 +11,9 @@ My approach to programming is simple: make it run, refactor, make it better, and
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/apoll0_11__) 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I8G025E2KN)
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Apoll011&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-stats-extended.vercel.app/api?username=Apoll011&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Apoll011&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Apoll011&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=Apoll011&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Fav Quote
 > "**Clean code always looks like it was written by someone who cares.**"  
