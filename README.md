@@ -7,9 +7,6 @@ Outside of code, I’m passionate about God, reading, brainstorming, spending ti
 
 My approach to programming is simple: make it run, refactor, make it better, and make it beautiful—both in code aesthetics and UI design.
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/apoll0_11__) 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I8G025E2KN)
 # GitHub Stats:
 ![](https://github-stats-extended.vercel.app/api?username=Apoll011&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Apoll011&theme=dark&hide_border=false)<br/>
